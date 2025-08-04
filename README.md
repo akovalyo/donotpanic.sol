@@ -1,12 +1,34 @@
-# React + Vite
+# DO NOT PANIC! 🚨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The Scientifically Questionable Panic Reduction System™**
 
-Currently, two official plugins are available:
+When life gets overwhelming and your stress levels are through the roof, sometimes you need something completely absurd to snap you out of it. This webapp delivers exactly that – premium-grade nonsense logic designed to make you laugh at the ridiculousness of worrying.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What it does
 
-## Expanding the ESLint configuration
+- **Panic Button**: Click the big red button to get instantly served a random dose of absurd wisdom
+- **Stress Relief Through Absurdity**: Each quote uses hilariously illogical reasoning to "prove" why your worries are invalid
+- **Share the Nonsense**: Share your favorite absurd quotes on X (Twitter) to spread the chaos
+- **Space Theme**: Because nothing says "cosmic perspective" like floating stars
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## The Philosophy
+
+Built on the principle that sometimes the best way to deal with stress is to be reminded how wonderfully weird the universe is. Our collection of 120+ absurd quotes will convince you that:
+- Squirrels secretly run the stock market
+- Rubber ducks solve more problems than therapists
+- Jellyfish have survived millions of years without brains (so you're overqualified for drama)
+
+## Tech Stack
+
+- **React 19** with Vite for fast development
+- **Pure CSS** animations for that satisfying button glow
+- **No external dependencies** – just pure, concentrated nonsense
+
+## Running the App
+
+```bash
+npm install
+npm run dev
+```
+
+⚠️ **Warning**: Side effects may include uncontrollable giggling and existential clarity ⚠️
