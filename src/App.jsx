@@ -29,7 +29,7 @@ function App() {
   }
 
   const handleShareOnX = () => {
-    const tweetText = `${currentQuote}\n\n#DoNotPanic\nhttps://donotpanic.sol`
+    const tweetText = `${currentQuote}\n\n#DoNotPanic\ndonotpanic.sol`
     const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}`
     window.open(twitterUrl, '_blank')
   }
